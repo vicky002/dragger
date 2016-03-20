@@ -1,0 +1,25 @@
+{
+	"name": "dragger",
+	"version": "0.0.1",
+	"description": "Drag and Drop made so easy!",
+	"main": "dragger.js",
+	"scripts": {
+
+		},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vicky002/dragger.git"
+	},
+	"author": "Vikesh Tiwari <hi@eulercoder.me> (https://eulercoder.me)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/vicky002/dragger/issues"
+	},
+	"homepage": "https://github.com/vicky002/dragger",
+	"dependencies": {
+
+		},
+	"devDependencies": {
+
+	}
+}
